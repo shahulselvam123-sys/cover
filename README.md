@@ -105,6 +105,8 @@ body, html {
 
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 202218" src="https://github.com/user-attachments/assets/e575d773-6d8b-400d-930b-5085bf96840f" />
+
 
 
 ## RESULT:
